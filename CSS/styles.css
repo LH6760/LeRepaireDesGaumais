@@ -9,7 +9,7 @@ body {
     height: 100%;
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
-    background-image: url("bois.jpg");
+    background-image: url("CSS/image/bois.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
